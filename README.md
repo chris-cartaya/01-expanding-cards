@@ -9,6 +9,7 @@ A simple project demonstrating expanding cards using HTML, CSS, and JavaScript. 
 - [Screenshot](#screenshot)
 - [Usage](#usage)
 - [Project Timeline](#project-timeline)
+- [To-Do](#to-do)
 - [Credits](#credits)
 - [License](#license)
 - [Versioning](#versioning)
@@ -56,6 +57,10 @@ Feel free to use this project as a reference for your own HTML and CSS projects 
 - **Start Date:** July 12, 2024
 - **Completion Date:** July 12, 2024
 - **Last Modified:** July 12, 2024
+
+## To-Do
+
+- [ ] Increase the opacity transition duration for text on mobile devices to prevent the text from looking like it’s falling down as the panel opens.
 
 ## Credits
 
