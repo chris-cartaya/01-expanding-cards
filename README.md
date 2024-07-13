@@ -20,7 +20,6 @@ This project features a series of expanding cards styled with background images 
 The project was developed by following the first video in the Udemy course "50 Projects In 50 Days" by Brad Traversy and Florin Pop, titled "Day 1 - Expanding Cards". While closely following the tutorial, I made a few minor modifications to enhance semantics and responsiveness, which are detailed in the next section.
 
 
-
 ## Modifications
 
 ### HTML
@@ -39,17 +38,14 @@ The project was developed by following the first video in the Udemy course "50 P
 - Added a comment to explain the use of `querySelectorAll` and the difference between NodeLists and HTMLCollections.
 
 
-
 ## Live Demo
 
-Check out the live version of this project here:<br>
-<a 
-  href="https://chris-cartaya.github.io/01-expanding-cards/" 
-  target="_blank">https://chris-cartaya.github.io/01-expanding-cards/</a>
+Check out the live version of this project here:
+[https://chris-cartaya.github.io/01-expanding-cards/](https://chris-cartaya.github.io/01-expanding-cards/)
 
 ## Screenshot
 
-![Expanding Cards Screenshot](path-to-screenshot.png)
+![Expanding Cards Screenshot](images/01-expanding-cards.png)
 
 ## Usage
 
